@@ -1,0 +1,6 @@
+name: infrastructure
+runtime:
+  name: nodejs
+  options:
+    typescript: false
+description: Genealogy cloud infrastructure
